@@ -1,11 +1,11 @@
 {
   "name": "crypto-md5",
-  "description": "MD5 algorithm from crypto.js",
+  "description": "MD5 algorithm from CryptoJS",
   "homepage": "https://github.com/tmeasday/meteor-crypto-md5",
   "author": "Tom Coleman <tom@thesnail.org>",
-  "version": "0.0.2",
+  "version": "3.1.2.0",
   "git": "https://github.com/tmeasday/meteor-crypto-md5.git",
   "packages": {
-    "crypto-base": {}
+    "crypto-base": "3.1.2.0"
   }
 }
