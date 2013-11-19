@@ -26,7 +26,7 @@ Usage
 MD5 digest of a string:
 ```javascript
 CryptoJS.MD5('Message').toString()
-// "4c2a8fe7eaf24721cc7a9f0175115bd4"
+// '4c2a8fe7eaf24721cc7a9f0175115bd4'
 ```
 
 MD51 HMAC of a string, given a passphrase:
