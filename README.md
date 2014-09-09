@@ -33,7 +33,7 @@ CryptoJS.MD5('Message').toString()
 // '4c2a8fe7eaf24721cc7a9f0175115bd4'
 ```
 
-MD51 HMAC of a string, given a passphrase:
+MD5 HMAC of a string, given a passphrase:
 ```javascript
 CryptoJS.HmacMD5('Message', 'Secret Passphrase').toString()
 // '5e03d0c1b42ef0b7e61fb333f3993949'
