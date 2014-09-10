@@ -39,6 +39,9 @@ CryptoJS.HmacMD5('Message', 'Secret Passphrase').toString()
 // '5e03d0c1b42ef0b7e61fb333f3993949'
 ```
 
+See also
+--------
+The CryptoJS project lives at <https://code.google.com/p/crypto-js/> and the documentation for MD5 is at <https://code.google.com/p/crypto-js/#MD5>.
 
 Related packages
 ----------------
