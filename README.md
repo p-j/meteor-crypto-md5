@@ -51,3 +51,8 @@ Related packages
 - [`jparker:crypto-sha256`](https://github.com/p-j/meteor-crypto-sha256)
 - [`jparker:crypto-base64`](https://github.com/p-j/meteor-crypto-base64)
 - [`jparker:crypto-aes`](https://github.com/p-j/meteor-crypto-aes)
+
+Credits
+-------
+
+Based on [Dan Dascalescu's and Tom Coleman's work](https://github.com/oortcloud/meteor-crypto-md5)
