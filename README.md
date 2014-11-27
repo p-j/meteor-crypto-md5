@@ -2,6 +2,8 @@
 hash function algorithm from [CryptoJS](https://code.google.com/p/crypto-js/),
 packaged for Meteor.
 
+[![Build Status](https://travis-ci.org/p-j/meteor-crypto-md5.svg)](https://travis-ci.org/p-j/meteor-crypto-md5)
+
 Dependency
 ----------
 - [`jparker:crypto-core`](https://github.com/p-j/meteor-crypto-core).
